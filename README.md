@@ -1,5 +1,7 @@
 # My_Sprite_Generator
 
+Ce lance en ligne de commande prend en arguments un dossier d'images, et génére un sprite+html+css(pour test) pour d'autre option lire le --help
+
 CSS_GENERATOR(1) User Commands CSS_GENERATOR(1)
 
 NAME
